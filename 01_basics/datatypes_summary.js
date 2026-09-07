@@ -45,3 +45,8 @@ console.log(typeof anotherId);
 // data type of number is number
 // data type of boolean is boolean
 
+
+// *****************stack and heap memory*****************
+
+// Primitive data types are stored in stack memory, and reference data types are stored in heap memory.
+// stack (primitives) is faster than heap (reference types) because stack memory is smaller and more efficient to access, while heap memory is larger and slower to access.
